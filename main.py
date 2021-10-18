@@ -7,7 +7,10 @@ api = Api(app)
 
 class HelloElla(Resource):
   def get(self):
-    return {"data": "Ella can you get me a Hello"}
+    return {"data": "Ella, can you get me a Hello."}
+
+  def post(self):
+    return {"data": "Ella, can you post up."}
 
 api.add_resource(HelloElla, "/helloella")
  
