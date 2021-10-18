@@ -2,5 +2,5 @@ import requests
 
 BASE = "http://127.0.0.1:5000/"
 
-response = requests.post(BASE + "helloella")
+response = requests.get(BASE + "helloella/Ella")
 print(response.json())
