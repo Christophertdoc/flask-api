@@ -1,5 +1,6 @@
 # Flask API
 Practice in creating an API with flask and python.
+Based on the following tutorial: https://www.youtube.com/watch?v=GMppyAPbLYk&ab_channel=TechWithTim
 
 
 
