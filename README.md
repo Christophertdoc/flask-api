@@ -15,6 +15,9 @@ Based on the following tutorial: https://www.youtube.com/watch?v=GMppyAPbLYk&ab_
 ### Run API
 1. At project root, Type `python3 main.py` in terminal and press "enter".
 
+### Make a request
+Run `python test.py` at project root.
+
 ### Deactivate virtual environment
 1. Type `deactivate` into the terminal and press "enter".
 
